@@ -1,0 +1,399 @@
+{
+  "personal": {
+    "name": "MD. RAZIB HOSSAIN SHAIKH",
+    "nickName": "RAZIB",
+    "profession": "SOFTWARE ENGINEER",
+    "email": "razibdpi@gmail.com",
+    "mobile": "+880-1723-402829",
+    "cv": "Download My CV",
+    "cvDownloadLink": "/files/razib_cv.pdf",
+    "dob": "25-OCT-1991",
+    "address": "Bochila, Mohammadpur, Dhaka, Bangladesh.",
+    "website": "http://www.creativewebcoder.com"
+  },
+  "social":[
+    {"url":"https://www.facebook.com/razib.bangladesh", "title":"facebook","icon":"fa fa-facebook"},
+    {"url":"https://www.google.com/+RazibHossain", "title":"google-plus","icon":"fa fa-google-plus"},
+    {"url":"https://www.bd.linkedin.com/in/razibbd", "title":"linkedin","icon":"fa fa-linkedin"},
+    {"url":"https://github.com/creativewebcoder", "title":"github","icon":"fa fa-github"}
+  ],
+  "education":[
+    {
+      "academy":"Bangladesh University of Business & Technology",
+      "title":"BSc in CSE",
+      "subject":"CSE",
+      "duration":"2011 - 2014"
+    },
+    {
+      "academy":"Dhaka Polytechnic Inistute",
+      "title":"Diploma in Computer Technology",
+      "subject":"CMT",
+      "duration":"2006 - 2010"
+    },
+    {
+      "academy":"Kalia Pilot High School",
+      "title":"SSC",
+      "subject":"EEE",
+      "duration":"2006"
+    }
+  ],
+  "portfolio": [
+    {
+      "ProjectName": "ShafMart",
+      "Client": "Shafin Ahmmed",
+      "Role": "E-commerce Software",
+      "filter":"ecommerce",
+      "SpecialFeature": [
+        "Fully control by Admin panel",
+        "Access permission & User Management",
+        "Product Management",
+        "CMS: Unlimited content, page, menu, gallery, layout",
+        "Dynamic Photo Gallery",
+        "Customer Profile, Favorite List, Order History. Wish list",
+        "Faster loading",
+        "Page speed up to 90%"
+      ],
+      "Framework": [
+        "Backend: CakePHP, PHP5+, MySql.",
+        "Frontend: AngularJs, Jquery UI. Yeoman."
+      ],
+      "Design": [
+        "Fully Responsive",
+        "Custom LESS Framework",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "http://www.shafmart.com",
+      "Duration": "Apr 01, 2015 to May 15, 2015",
+      "images": [
+        "shafmart1.png",
+        "shafmart2.png",
+        "shafmart3.png"
+      ]
+    },
+    {
+      "ProjectName": "Labonno",
+      "Client": "UY Systems",
+      "Role": "E-commerce Software",
+      "filter":"ecommerce",
+      "SpecialFeature": [
+        "Fully control by Admin panel",
+        "Access permission & User Management",
+        "Product Management",
+        "CMS: Unlimited content, page, menu, gallery, layout",
+        "Dynamic Photo Gallery",
+        "Customer Profile, Favorite List, Order History. Wish list",
+        "Faster loading",
+        "Page speed up to 90%"
+      ],
+      "Framework": [
+        "Backend: CakePHP, PHP5+, MySql.",
+        "Frontend: AngularJs, Jquery UI. Yeoman."
+      ],
+      "Design": [
+        "Fully Responsive",
+        "Custom LESS Framework",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "http://www.labonno.com/",
+      "Duration": "May 05, 2015 to Jun 15, 2015",
+      "images": [
+        "labonno1.png",
+        "labonno2.png",
+        "labonno3.png"
+      ]
+    },
+    {
+      "ProjectName": "nnkhbd",
+      "Client": "Nasima Nakhsi Katha",
+      "Role": "E-commerce Software",
+      "filter":"ecommerce",
+      "SpecialFeature": [
+        "Fully control by Admin panel",
+        "Access permission & User Management",
+        "Product Management",
+        "CMS: Unlimited content, page, menu, gallery, layout",
+        "Dynamic Photo Gallery",
+        "Customer Profile, Favorite List, Order History. Wish list",
+        "Faster loading",
+        "Page speed up to 90%"
+      ],
+      "Framework": [
+        "Backend: CakePHP, PHP5+, MySql.",
+        "Frontend: AngularJs, Jquery UI. Yeoman."
+      ],
+      "Design": [
+        "Fully Responsive",
+        "Custom LESS Framework",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "http://www.nnkhbd.com/",
+      "Duration": "Jun 15, 2015 to Jul 25, 2015",
+      "images": [
+        "nnkhbd1.png",
+        "nnkhbd2.png",
+        "nnkhbd3.png"
+      ]
+    },
+    {
+      "ProjectName": "The JS Treasure",
+      "Client": "The JS Treasure",
+      "Role": "E-commerce Software",
+      "filter":"ecommerce",
+      "SpecialFeature": [
+        "Fully control by Admin panel",
+        "Access permission & User Management",
+        "Product Management",
+        "CMS: Unlimited content, page, menu, gallery, layout",
+        "Dynamic Photo Gallery",
+        "Customer Profile, Favorite List, Order History. Wish list",
+        "Faster loading",
+        "Page speed up to 90%"
+      ],
+      "Framework": [
+        "Backend: CakePHP, PHP5+, MySql.",
+        "Frontend: AngularJs, Jquery UI. Yeoman."
+      ],
+      "Design": [
+        "Fully Responsive",
+        "Custom LESS Framework",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "http://www.thejsbd.com",
+      "Duration": "Jul 25, 2015  to Aug 15, 2015",
+      "images": [
+        "thejs1.png",
+        "thejs2.png",
+        "thejs3.png"
+      ]
+    },
+    {
+      "ProjectName": "Mini ERP",
+      "Client": "ABSS Ltd.",
+      "Role": "ERP Software",
+      "filter":"erp",
+      "SpecialFeature": [
+        "Inventory Management",
+        "HRM",
+        "Product Management",
+        "ERP Sales by Organization Admin User Registration",
+        "Module / Package wise ERP Sales",
+        "ACL Management",
+        "Faster loading",
+        "Full site AJAX based Development",
+        "User Type: Super Admin, Organization Admin, Organization User"
+      ],
+      "Framework": [
+        "Backend: CakePHP, PHP5+, MySql.",
+        "Frontend: HTML & CSS"
+      ],
+      "Design": [
+        "Fully Responsive",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "http://minierp.sc4rv.com",
+      "Duration": "Sep 05, 2014 to Mar 31, 2015",
+      "images": [
+        "minierp1.png",
+        "minierp2.png",
+        "minierp3.png",
+        "minierp4.png"
+      ]
+    },
+    {
+      "ProjectName": "BEPZA",
+      "Client": "Bangladesh Export Processing Zones Authority",
+      "Role": "Websites",
+      "filter":"websites",
+      "SpecialFeature": [
+        "Drag & Drop Page Maker",
+        "Fully control by Admin panel",
+        "Access permission & User Management",
+        "Multiple sites for each Zone",
+        "CMS: Unlimited content, page, menu, gallery, layout",
+        "Dynamic Photo Gallery",
+        "Faster loading",
+        "Page speed up to 90%"
+      ],
+      "Framework": [
+        "Backend: CakePHP, PHP5+, MySql.",
+        "Frontend: Twitter Bootstrap"
+      ],
+      "Design": [
+        "Fully Responsive",
+        "Twitter Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "http://epzbangladesh.org.bd",
+      "Duration": "March 23, 2014 to April 30, 2014",
+      "images": [
+        "bepza1.png",
+        "bepza2.png",
+        "bepza3.png"
+      ]
+    },
+    {
+      "ProjectName": "Bangladesh Atomic Energy",
+      "Client": "Bangladesh Atomic Energy",
+      "Role": "Websites",
+      "filter":"websites",
+      "Framework": [
+        "Backend: CakePHP, PHP5+, MySql.",
+        "Frontend: Twitter Bootstrap"
+      ],
+      "Design": [
+        "Fully Responsive",
+        "Twitter Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "http://www.baera.gov.bd",
+      "Duration": "May 3, 2014 to May 30, 2014",
+      "images": [
+        "baera1.png",
+        "baera2.png",
+        "baera3.png"
+      ]
+    },
+    {
+      "ProjectName": "JobsDoorBD.com",
+      "Client": "JobsDoorBD.com",
+      "Role": "Job Portal",
+      "filter":"erp",
+      "SpecialFeature": [
+        "Job Management",
+        "Job Seeker & Employer Management",
+        "Job Seeker & Employer Panel",
+        "Payment Management",
+        "Advertise Management",
+        "CV Bank",
+        "Automatic CV maker",
+        "Report, Invoice generator",
+        "Fully control by Admin panel",
+        "Access permission & User Management",
+        "CMS: Unlimited content, page, menu, gallery, layout",
+        "Dynamic Photo Gallery",
+        "Faster loading"
+      ],
+      "Framework": [
+        "Backend: CakePHP, PHP5+, MySql.",
+        "Frontend: Twitter Bootstrap"
+      ],
+      "Design": [
+        "Fully Responsive",
+        "Twitter Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "http://www.jobsdoorbd.com",
+      "Duration": "Dec 01, 2013 to Jan 25, 2014",
+      "images": [
+        "jobsdoorbd1.png",
+        "jobsdoorbd2.png",
+        "jobsdoorbd3.png"
+      ]
+    },
+    {
+      "ProjectName": "BusBD.com",
+      "Client": "Bus BD",
+      "Role": "E-Ticketing, E-commerce",
+      "filter":"ecommerce",
+      "SpecialFeature": [
+        "Ticket Booking, Sell in Online",
+        "Payment Gateway. E.g. bKash, Brac, Dutch etc.",
+        "Report, Ticket, Invoice generator",
+        "Fully control by Admin panel",
+        "Access permission & User Management",
+        "CMS: Unlimited content, page, menu, gallery, layout",
+        "Dynamic Photo Gallery"
+      ],
+      "Framework": [
+        "Backend: Zend, PHP5+, MySql.",
+        "Frontend: Twitter Bootstrap"
+      ],
+      "Design": [
+        "Fully Responsive",
+        "Twitter Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "https://www.busbd.com",
+      "Duration": "Jun 05, 2012 to Nov 30, 2013",
+      "images": [
+        "busbd2.png",
+        "busbd1.png",
+        "busbd3.png"
+      ]
+    },
+    {
+      "ProjectName": "Coupon World Wide",
+      "Client": "UK Client",
+      "Role": "Websites",
+      "filter":"websites",
+      "SpecialFeature": [
+        "Ticket Booking, Sell in Online",
+        "Coupon Sells Company based site for UK"
+      ],
+      "Framework": [
+        "Backend: Yii, PHP5+, MySql.",
+        "Frontend: Twitter Bootstrap"
+      ],
+      "Design": [
+        "Fully Responsive",
+        "Twitter Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "https://www.couponworldwide.com",
+      "Duration": "3 months",
+      "images": [
+        "cww.png"
+      ]
+    },
+    {
+      "ProjectName": "Creative Web Coder",
+      "Client": "My Personal Site",
+      "Role": "Websites",
+      "filter":"websites",
+      "SpecialFeature": [
+        "Ticket Booking, Sell in Online",
+        "Coupon Sells Company based site for UK"
+      ],
+      "Framework": [
+        "Frontend: Angularjs, Twitter Bootstrap"
+      ],
+      "Design": [
+        "Fully Responsive",
+        "Twitter Bootstrap",
+        "HTML5",
+        "CSS3"
+      ],
+      "sitelink": "https://www.creativewebcoder.com",
+      "Duration": "1 months",
+      "images": [
+        "cwc.png"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "FRONTEND SKILLS:": [
+        {
+          "progress-bar": "progress-bar-success",
+          "data": {
+            "MVC FRAMEWORKS: ANGULAR.JS": 90,
+            "JAVASCRIPT, JQUERY, AJAX": 80,
+            "HTML5 & CSS3": 70,
+            "CSS FRAMEWORKS - BOOTSTRAP": 90,
+            "ADOBE PHOTOSHOP": 40
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<!-- Portfolio -->
+
+<section id="work">
+  <div class="container">
+    <div class="row">
+      <h1 class="page-title">Portfolio</h1>
+    </div>
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <div id="portfolio-filters" class="portfolio-filters">
+          <button class="button solid-button white-purple small" data-filter="*">Show All</button>
+          <button class="button solid-button white-purple small" data-filter=".ecommerce">E-commerce</button>
+          <button class="button solid-button white-purple small" data-filter=".websites">Websites</button>
+          <button class="button solid-button white-purple small" data-filter=".erp">ERP</button>
+          <button class="button solid-button white-purple small" data-filter=".design">Design</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="portfolio-wrapper">
+
+      <div id="portfolio" class="portfolio">
+        <div data-ng-repeat="(key,val) in data.portfolio" class="item {{val.filter}}">
+          <img src="images/projects/portfolio/{{val.images[0]}}" alt="{{val.ProjectName}}" class="img-responsive">
+          <a href="/#/project/{{$index}}" class="overlay">
+            <div class="background"></div>
+            <div class="meta">
+              <span class="title">{{val.ProjectName}}</span>
+              <span class="category">{{val.Role}}</span>
+            </div>
+          </a>
+        </div>
+
+
+      <!--<div class="portfolio-load-more">-->
+        <!--<a href="#" class="button solid-button white icon-right">Load More Work<i class="md-refresh"></i></a>-->
+      <!--</div>-->
+      <!-- -->
+    </div>
+  </div>
+</section>
